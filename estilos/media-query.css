@@ -45,5 +45,12 @@ and (max-width: 992px) {
         width: 50%;
     }
 
+    div#formulário > h1{
+       font-size: 2em;
+    }
+    
+    div#formulário > p{
+        font-size: 1.2em;
+    }
     
 }
