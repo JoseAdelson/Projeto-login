@@ -8,6 +8,7 @@ and (max-width: 992px) {
   
     section#Login{
         width: 90vw;
+        height: 300px;
         
     }
 
@@ -32,6 +33,7 @@ and (max-width: 992px) {
     
     section#Login{
         width: 950px;
+        height: 350px;
     }
 
     div#imagens{
@@ -50,7 +52,8 @@ and (max-width: 992px) {
     }
     
     div#formulário > p{
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
     
 }
